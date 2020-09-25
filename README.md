@@ -1,3 +1,10 @@
+# Patched node-atlassian 
+
+This fork contains fix for Crowd4, more details here: 
+https://github.com/RocketChat/Rocket.Chat/issues/17196
+
+# Original Readme
+
 I lost access to my crowd server awhile ago and things more or less stopped here. 
 
 Check out a new version that is Promise-based written in ES6 available here at https://github.com/wehkamp/atlassian-crowd-client or NPM at https://www.npmjs.com/package/atlassian-crowd-client
