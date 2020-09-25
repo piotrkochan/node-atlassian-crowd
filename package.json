@@ -1,6 +1,6 @@
 {
   "name": "atlassian-crowd-patched",
-  "version": "0.4.4",
+  "version": "0.5.1",
   "main": "./lib/index.js",
   "author": "Gary Steven <garys@darksidenetworks.com>",
   "contributors": [
@@ -20,7 +20,7 @@
   "engines": {
     "node": ">= 0.6.x"
   },
-  "devDependancies": {
+  "devDependencies": {
     "nodeunit": "0.7.4",
     "jshint": "0.9.1"
   },
